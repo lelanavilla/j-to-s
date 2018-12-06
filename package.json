@@ -2,7 +2,7 @@
   "name": "robo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lelanavilla.github.io/robo/",
+  "homepage": "https://lelanavilla.github.io/j-to-s/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
