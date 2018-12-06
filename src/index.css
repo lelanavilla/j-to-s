@@ -3,7 +3,7 @@ body {
   padding: 0;
   max-width:100%;
   font-size:1.15em;
-  font-family: sans-serif;
-  font-display: auto;
+  font-family: "Arial",sans-serif;
+  font-display:swap;
   background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); /* w3c */
 }

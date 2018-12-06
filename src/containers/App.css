@@ -7,17 +7,19 @@ html{
 body{
   position:relative;
   max-width:100%;
+  font-size:1.15em;
 }
 @font-face {
-font-family: 'SEGA LOGO FONT';
+font-family: 'SEGA LOGO FONT', "Arial", sans-serif;
 font-style: normal;
 font-weight: normal;
-font-display: auto;
 src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+font-display:swap;
 }
 
 h1 {
-  font-family: 'SEGA LOGO FONT';
+  font-family: 'SEGA LOGO FONT', "Arial", sans-serif;
+  font-display:swap;
   font-weight: 200;
   color: #0ccac4;
 }
